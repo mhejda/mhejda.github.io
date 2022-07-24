@@ -2,21 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mhejda.github.io/categories/</loc>
-    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="https://mhejda.github.io/cs/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mhejda.github.io/categories/"
-                />
+    <loc>https://mhejda.github.io/posts/2022-07_tools_of_the_trade/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.github.io/</loc>
-    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -29,7 +19,7 @@
                 />
   </url><url>
     <loc>https://mhejda.github.io/posts/</loc>
-    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -39,6 +29,35 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mhejda.github.io/posts/"
+                />
+  </url><url>
+    <loc>https://mhejda.github.io/tags/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://mhejda.github.io/cs/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mhejda.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://mhejda.github.io/tags/writeups/</loc>
+    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.github.io/categories/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://mhejda.github.io/cs/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mhejda.github.io/categories/"
                 />
   </url><url>
     <loc>https://mhejda.github.io/categories/scotland/</loc>
@@ -60,18 +79,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mhejda.github.io/archives/"
-                />
-  </url><url>
-    <loc>https://mhejda.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="https://mhejda.github.io/cs/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mhejda.github.io/tags/"
                 />
   </url>
 </urlset>
