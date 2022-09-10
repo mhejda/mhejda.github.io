@@ -47,12 +47,6 @@
     <loc>https://mhejda.github.io/posts/2022-07_useful_pastes/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mhejda.github.io/posts/2022-07_tools_of_the_trade/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mhejda.github.io/tags/writeups/</loc>
-    <lastmod>2022-07-24T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mhejda.github.io/categories/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,12 +69,6 @@
     <loc>https://mhejda.github.io/about/</loc>
     <lastmod>2020-02-09T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mhejda.github.io/posts/2020-02_munro-4-beinn-chabhair/</loc>
-    <lastmod>2020-02-02T21:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mhejda.github.io/tags/munros/</loc>
-    <lastmod>2020-02-02T21:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mhejda.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -92,7 +80,5 @@
                 hreflang="en"
                 href="https://mhejda.github.io/archives/"
                 />
-  </url><url>
-    <loc>https://mhejda.github.io/posts/2020-09_august-munro-recap/</loc>
   </url>
 </urlset>
