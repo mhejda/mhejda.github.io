@@ -69,6 +69,8 @@
     <loc>https://mhejda.github.io/about/</loc>
     <lastmod>2020-02-09T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://mhejda.github.io/authors/mhejda/</loc>
+  </url><url>
     <loc>https://mhejda.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -80,5 +82,7 @@
                 hreflang="en"
                 href="https://mhejda.github.io/archives/"
                 />
+  </url><url>
+    <loc>https://mhejda.github.io/authors/</loc>
   </url>
 </urlset>
