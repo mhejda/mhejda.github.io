@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on mhejda</title>
-    <link>https://mhejda.github.io/cs/posts/</link>
-    <description>Recent content in Posts on mhejda</description>
+    <title>finland on mhejda</title>
+    <link>https://mhejda.github.io/cs/tags/finland/</link>
+    <description>Recent content in finland on mhejda</description>
     <image>
       <url>https://mhejda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://mhejda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 22 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.github.io/cs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.github.io/cs/tags/finland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Finsko 03: fuksi</title>
       <link>https://mhejda.github.io/cs/posts/2016-08_finland03_fuksi/</link>
