@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on mhejda</title>
-    <link>https://mhejda.github.io/cs/tags/</link>
+    <link>https://mhejda.com/cs/tags/</link>
     <description>Recent content in Tags on mhejda</description>
     <image>
-      <url>https://mhejda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://mhejda.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://mhejda.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mhejda.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 02 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.github.io/cs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Dec 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.com/cs/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>finland</title>
-      <link>https://mhejda.github.io/cs/tags/finland/</link>
+      <link>https://mhejda.com/cs/tags/finland/</link>
       <pubDate>Fri, 02 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://mhejda.github.io/cs/tags/finland/</guid>
+      <guid>https://mhejda.com/cs/tags/finland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>https://mhejda.github.io/cs/tags/life/</link>
+      <link>https://mhejda.com/cs/tags/life/</link>
       <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://mhejda.github.io/cs/tags/life/</guid>
+      <guid>https://mhejda.com/cs/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travelling</title>
-      <link>https://mhejda.github.io/cs/tags/travelling/</link>
+      <link>https://mhejda.com/cs/tags/travelling/</link>
       <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://mhejda.github.io/cs/tags/travelling/</guid>
+      <guid>https://mhejda.com/cs/tags/travelling/</guid>
       <description></description>
     </item>
     
