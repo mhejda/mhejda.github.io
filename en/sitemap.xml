@@ -5,11 +5,37 @@
     <loc>https://mhejda.com/about/</loc>
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mhejda.com/tags/computers/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <loc>https://mhejda.com/categories/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://mhejda.com/cs/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mhejda.com/categories/"
+                />
+  </url><url>
+    <loc>https://mhejda.com/posts/fresh-starts/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.com/tags/life/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://mhejda.com/cs/tags/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mhejda.com/tags/life/"
+                />
   </url><url>
     <loc>https://mhejda.com/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -21,8 +47,11 @@
                 href="https://mhejda.com/"
                 />
   </url><url>
+    <loc>https://mhejda.com/categories/posts/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mhejda.com/posts/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -35,7 +64,7 @@
                 />
   </url><url>
     <loc>https://mhejda.com/tags/</loc>
-    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -47,21 +76,11 @@
                 href="https://mhejda.com/tags/"
                 />
   </url><url>
-    <loc>https://mhejda.com/posts/2022-07_useful_pastes/</loc>
+    <loc>https://mhejda.com/tags/computers/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mhejda.com/categories/</loc>
-    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cs"
-                href="https://mhejda.com/cs/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mhejda.com/categories/"
-                />
+    <loc>https://mhejda.com/posts/2022-07_useful_pastes/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.com/categories/scotland/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>

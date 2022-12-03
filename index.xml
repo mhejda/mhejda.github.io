@@ -9,7 +9,7 @@
       <link>https://mhejda.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
       <link>https://mhejda.com/about/</link>
@@ -18,6 +18,15 @@
       <guid>https://mhejda.com/about/</guid>
       <description>Work in progress (2022-10). I&amp;rsquo;m Matěj [/ˈmatɛj/] Hejda.
 Originally from Czech Republic, I&amp;rsquo;m currently living in Glasgow, Scotland. My interdisciplinary research (on which I am focusing during my PhD) lies at the interesction of physics, photonics, nanotechnology and computer science. The main research goal of the group lies in demonstration of brain-inspired (also called neuromorphic) dynamics and behaviours in photonic and nanophotonic devices, with the goal of creating fundamental building blocks for light-powered on-chip artifical neural networks.</description>
+    </item>
+    
+    <item>
+      <title>Fresh Starts: Blog edition</title>
+      <link>https://mhejda.com/posts/fresh-starts/</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mhejda.com/posts/fresh-starts/</guid>
+      <description>New blogging platform, new me.</description>
     </item>
     
     <item>

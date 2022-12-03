@@ -91,6 +91,16 @@
   </url><url>
     <loc>https://mhejda.com/cs/tags/life/</loc>
     <lastmod>2013-10-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mhejda.com/tags/life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://mhejda.com/cs/tags/life/"
+                />
   </url><url>
     <loc>https://mhejda.com/cs/posts/2013-09_empire_state_of_mind/</loc>
     <lastmod>2013-09-09T00:00:00+00:00</lastmod>
