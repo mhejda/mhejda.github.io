@@ -4,10 +4,6 @@
     <title>Posts on mhejda</title>
     <link>https://mhejda.com/posts/</link>
     <description>Recent content in Posts on mhejda</description>
-    <image>
-      <url>https://mhejda.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://mhejda.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,6 +13,30 @@
       
       <guid>https://mhejda.com/posts/fresh-starts/</guid>
       <description>Restarting my blogging efforts on a new platform.</description>
+      <content:encoded><![CDATA[<p>I have always really liked the idea of a <em>personal blog</em> - in my mind, I always imagined it as one&rsquo;s very own tiny island in the vast seas of the endless, global Internet network.</p>
+<p>My family and some friends will surely remember many of my previous attempts at blogging. Way back in 2006 (at undoubtly a very wise age of thirteen), I used to blog on Vox.com (prior to the domain and brand being acquired by the current media company). I also owned multiple Wordpress instances, a Blogspot instance, and very likely at least few additional services which I already forgot about.</p>
+<p>My very last attempt at blogging ended right when I started my undergrad in 2013 - and for almost 10 long years, I did not blog at all. I was styling writing, but mostly just a personal journal using the DayOne iOS app. Those were the times when significant shift towards social media started to take place - however, I have never really grown too keen on actually sharing things on these network. Data ownership &amp; privacy are things that I care about, and everytime I opened Facebook, part of me kind of hated it. There was always quite high ratio of noise (ads) to signal (friends), and it all fell a bit too all over the place. Later on, the <em>&ldquo;you are not the client, you are the product&rdquo;</em> mantra would resonate through my mind, further fueled by situations such as the Cambridge Analytica scandal etc.</p>
+<h4 id="luckily-my-online-blogging-hiatus-has-finally-changed-last-year">Luckily, my online blogging hiatus has finally changed last year.</h4>
+<p>Back then, I finally (somewhat randomly) found my own perfect blogging solution:</p>
+<ul>
+<li>
+<p>static blogging platform <a href="https://gohugo.io/">Hugo</a> (free! + open-source)</p>
+</li>
+<li>
+<p>with media hosted on Cloudinary CDN (free tier available),</p>
+</li>
+<li>
+<p>the option to deploy it on Github Pages (free!)</p>
+</li>
+<li>
+<p>and distribute via Netlify CDN (free!).</p>
+</li>
+</ul>
+<p>Since the content (except for media) is hosted on Github, this blog is also likely the first solution that should be <em>permanent</em> (unless Github goes down - in such case, losing this blog would be least of our issues). Cloudinary for photo hosting might be considered the weakest spot of the system - yet, for now, I believe its convenience outweights the risks.</p>
+<p>Devon Zuegel once wrote a really cool article named <a href="https://devonzuegel.com/post/everything-is-amazing-but-nothing-is-ours">Everything is Amazing, But Nothing is Ours</a>, highlighting some of the developments in the ways we use and build our internet services: going from <em>files</em> to <em>services</em> (which are more convenient) at the cost of highly complex dependencies. I have to say that going against the trend with a static platform like Hugo feels great - it&rsquo;s so simple, and it works so well. There&rsquo;s something about having one&rsquo;s blog completely database and bloat-free, in both a local &amp; remote git repository. Moving the whole instance elsewhere (or to a self-hosted solution) is also as easy as moving files around.</p>
+<p>I feel confident that this platform will work (and last) for years ahead. My next task is to add a simple newsletter for those who will want to follow the updates posted here.</p>
+<p>Thanks for reading me! :)</p>
+]]></content:encoded>
     </item>
     
     <item>
@@ -26,6 +46,20 @@
       
       <guid>https://mhejda.com/posts/2022-07_useful_pastes/</guid>
       <description>Some snippets of code that might come in handy to others.</description>
+      <content:encoded><![CDATA[<h2 id="betterbibtex">BetterBibTeX</h2>
+<p>For those who use Zotero together with LaTeX, BetterBibTex is an essential plugin.
+Here, I attempted to create a formatting rule that produces convenient bibkeys for entries.
+It follows the syntax of:</p>
+<p><code>{FirstAuthorLastName}{PublicationYear}_{AbbreviationOfJournal}</code></p>
+<p>It attempts to fetch the abbreviation for journal from its database. 
+There are some custom rules based on journals I work with the most.
+If there is no abbreviation in the database, it tries to create one.
+For non-journal published entries, preprints etc., it just appends <code>X</code> instead of <code>{AbbreviationOfJournal}</code>. Same happens for abbreviations longer than 15 symbols.</p>
+<p><em>Citation key format</em></p>
+<pre tabindex="0"><code>auth+year+&#34;_&#34;+journal.len(relation=&#34;&lt;&#34;,length=1)+&#34;X &#34; | 
+auth+year+&#34;_&#34;+journal.len(relation=&#34;&lt;&#34;,length=15).alphanum.replace(find=OptExpress,replace=OE).replace(find=NatCommun,replace=NatComm).replace(find=NatPhotonics,replace=NatPhot).replace(find=OptLett,replace=OL).replace(find=Nanophotonics,replace=Nanophot).replace(find=APLPhotonics,replace=APLPhot).alphanum | 
+auth+year+&#34;_&#34;+journal.abbr.alphanum
+</code></pre>]]></content:encoded>
     </item>
     
     <item>
@@ -35,6 +69,170 @@
       
       <guid>https://mhejda.com/posts/glasgow-murals/</guid>
       <description>Street art and street murals are becoming a staple feature of many different cities around the globe - including Glasgow, the largest Scottish city. Colourful artistic paintings of various sizes can be found all around the city, and there&amp;rsquo;s even an official mural trail to help you discover them. There&amp;rsquo;s just one small issue with the officia trail: there&amp;rsquo;s many more really nice murals than what is included in the trail (and new murals keep popping up).</description>
+      <content:encoded><![CDATA[<p>Street art and street <strong>murals</strong> are becoming a staple feature of many different cities around the globe - including Glasgow, the largest Scottish city. Colourful artistic paintings of various sizes can be found all around the city, and there&rsquo;s even an <a href="https://www.citycentremuraltrail.co.uk/murals/MuralMap">official mural trail</a> to help you discover them. There&rsquo;s just one small issue with the officia trail: there&rsquo;s many more really nice murals than what is included in the trail (and new murals keep popping up). After randomly discovering couple of nice murals in unexpected areas of the city, I came up with the idea to create my own &ldquo;ultimate&rdquo; Glasgow mural list, to be updated everytime I find a new one. :)</p>
+<p><em>Note: The numbering of those is arbitrary, and doesn&rsquo;t at the moment constitute a good order of visiting the murals.</em></p>
+<hr>
+<p>#20: <strong>Visit Dennistoun</strong> <em>(unknown artist)</em><br>
+Location: Annbank Street<br>
+Picture taken: 14/8/2020</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597443961/images/2020-08-14__8140111_ecpggt.jpg" alt=""  /></p>
+<p>#19: <strong>Tropical Birds</strong> <em>(by Art Pistol &amp; Rogue Oner)</em><br>
+<em>Location:</em> Howard &amp; Dunlop Streets<br>
+<em>Picture taken:</em> 14/8/2020</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597442892/images/2020-08-14__8140125_qewgtm.jpg" alt=""  /></p>
+<p>#18: <strong>Four Seasons / Fellow Glasgow Residents <em>(</em></strong><em>by Smug)</em><br>
+<em>Location:</em> Ingram Street<br>
+<em>Picture taken:</em> 2/3/2020</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093722/images/IMG_3392_c839bd.jpg" alt=""  /><br>
+
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093826/images/IMG_3393_ohbmcc.jpg" alt=""  /><br>
+
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093859/images/IMG_3394_inj0r3.jpg" alt=""  /><br>
+
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093918/images/IMG_3395_gj6kfx.jpg" alt=""  /><br>
+
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093942/images/IMG_3396_tto4bm.jpg" alt=""  /></p>
+<p>#17: <strong>The girls and the bubbles</strong> <em>(by Rogue-Oner)<br>
+Location:</em> Renfrew Lane<br>
+<em>Picture taken:</em> 27/2/2020</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003079/images/IMG_3354_ynkpia.jpg" alt=""  /></p>
+<p>#16: **Space Man (**by Recoat and Ali Wylie)<br>
+<em>Location:</em> Trongate<br>
+<em>Picture taken:</em> 1/3/2020</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1598093295/images/IMG_3386_hel0ng.jpg" alt=""  /></p>
+<p>#15: <strong>Woman in colours</strong>_<br>
+Location:_ Barras Art and Design<br>
+<em>Picture taken:</em> 20/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003374/images/IMG_2345_imzum4.jpg" alt=""  /></p>
+<p>#13 and #14: <strong>Mixed murals (BAaD Street Art Festival 2017)</strong> (<em>by multiple artists, including Art Pistol, Rogue-Oner, Conzo Throb and Ciarán Glöbel)<br>
+Location:</em> Ross St and The Barras<br>
+<em>Picture taken:</em> 20/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003482/images/IMG_2346_oirjme.jpg" alt=""  /></p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003626/images/IMG_2347_kdaa5k.jpg" alt=""  /></p>
+<p>#11 and #12: <strong>Studies of women in black</strong> <em>(by Klingatron)</em><br>
+<em>Location:</em> junction of Saltmarket and Bridgegate; Saint Andrew St<br>
+<em>Pictures taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003793/images/IMG_2348_hwvrzk.jpg" alt=""  />
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583003803/images/IMG_2349_odui9c.jpg" alt=""  /></p>
+<p>#10: <strong>The Big Yin</strong> (Billy Connolly) (<em>by Rogue-Oner)</em><br>
+<em>Location:</em> Osborne St<br>
+<em>Picture taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004204/images/IMG_2350_tg0hop.jpg" alt=""  /></p>
+<p>#08: <strong>The Clutha Faces</strong> <em>(by Rogue Oner, EJEK and Art Pistol) and</em> #09: <strong>Charles Rennie Mackintosh</strong> (<em>by Rogue Oner)</em><br>
+<em>Location:</em> near Clutha Bar, Clyde St<br>
+<em>Picture taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004350/images/IMG_2352_g3emqi.jpg" alt=""  /></p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006974/images/IMG_2351_ox9te7.jpg" alt=""  /></p>
+<p>Update from 14/8/2020: The Clutha Faces have been repainted!</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597441991/images/2020-08-14__8140123_qfhlue.jpg" alt=""  /></p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1597442216/images/2020-08-14__8140119_ww0tdh.jpg" alt=""  /></p>
+<p>#07: <strong>Dr Connolly, I Presume?</strong> <em>(by Rogue-Oner)</em><br>
+<em>Location:</em> Dixon St<br>
+<em>Picture taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004632/images/IMG_2353_ur14z1.jpg" alt=""  /></p>
+<p>#06: <strong>Honey, I Think I Shrunk the Kids</strong> <em>(by Smug)<br>
+Location:</em> Mitchell St<br>
+<em>Picture taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004689/images/IMG_2354_c1ifsb.jpg" alt=""  /></p>
+<p>#05: <strong>The World’s Most Economical Taxi</strong> <em>(by Rogue-Oner)<br>
+Location:</em> Mitchell St<br>
+<em>Picture taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583004864/images/IMG_2355_mx2af3.jpg" alt=""  /></p>
+<p>#13: <strong>The Gallery</strong> <em>(by Smug)</em><br>
+<em>Location:</em> junction of Argyle St and York St<br>
+<em>Picture taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005164/images/IMG_2356_joqlnm.jpg" alt=""  /></p>
+<p>#04: <strong>University of Strathclyde murals</strong><br>
+<em>Location:</em> George Street, University of Strathclyde campus<br>
+<em>Picture taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005265/images/IMG_2360_lmumhe.jpg" alt=""  />
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005284/images/IMG_2362_w2pwfs.jpg" alt=""  />
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005301/images/IMG_2363_mav0j9.jpg" alt=""  /></p>
+<p>#03: <strong>Teneu and Kentigern</strong> <em>(by Smug)</em><br>
+<em>Location:</em> George Street, University of Strathclyde campus<br>
+<em>Picture taken:</em> 26/8/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006451/images/IMG_1667_x81zo9.jpg" alt=""  /></p>
+<p>#02: <strong>Untitled (Saint Mungo)</strong> (<em>by Smug)</em><br>
+<em>Location:</em> High Street (view from Rottenrow East bus stop)<br>
+<em>Picture taken:</em> 4/2/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583006638/images/IMG_0245_qysqas.jpg" alt=""  /></p>
+<p>#01: <strong>Wellpark Brewery wall murals</strong> <em>(by Euan Gallacher, painted by Smug)</em><br>
+<em>Location:</em> Wellpark Brewery, Duke St<br>
+<em>Pictures taken:</em> 22/10/2019</p>
+<p>
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005382/images/IMG_2364_ha1zhi.jpg" alt=""  />
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005403/images/IMG_2365_qsznyp.jpg" alt=""  />
+  <img loading="lazy" src="https://res.cloudinary.com/mhejda/image/upload/c_scale,w_auto:100,dpr_auto/v1583005431/images/IMG_2366_rsfgy3.jpg" alt=""  /></p>
+<hr>
+<p><strong>Murals that were unfortunately removed</strong> 😔**:**</p>
+<ul>
+<li>Glasgow’s Tiger, Clyde Walkway just below the Broomielaw <em>[checked 14/8/2020]</em></li>
+<li>A View of the Clyde by Art Pistol <em>[checked 14/8/2020]</em></li>
+<li>Five Faces (beneath train bridge on Broomielaw) <em>[checked 14/8/2020]</em></li>
+</ul>
+<hr>
+<p><strong>List of murals to visit or take pictures of</strong> (in no particular order):</p>
+<ul>
+<li>Cat hunting birds by Art Pistol, Corner Howard &amp; Dunlop Streets, Glasgow</li>
+<li>Frenchie and bubbles by Rogue-Oner, Renfrew Lane</li>
+<li>Girl with butteflies by Rogue-Oner, Pacitti Gardens</li>
+<li>Are Ye Dancin by Art Pistol with Conzo Throb, Ciarán Glöbel, Sloans Lane, Glasgow</li>
+<li>Kids with stars, near DRAM in West End</li>
+<li>As Good as Gold, on Buchanan Street, down the lane beside Princes Square.</li>
+<li>Five Faces by Smug, on Broomielaw beneath railbridge</li>
+<li>Today We’re In Love Aren&rsquo;t We? by Cobolt Collective, Brown Street</li>
+<li>Wind Power by Rogue-Oner and Art Pistol, Mitchell Street</li>
+<li>The Lost Giant by Stormie Mills, Sauchiehall Lane</li>
+<li>Charing Cross Birds by Rogue-Oner</li>
+<li>Big Birds by Rogue-Oner and Art Pistol, corner of Howard Street and Dunlop Street</li>
+<li>Big Yin by Rachel Maclean, Gallowgate</li>
+<li>Argyle Street Cafe</li>
+<li>The Swimmer by Smug, Kingston Bridge</li>
+<li>Skeletal Street by Smug, Eastvale Street</li>
+<li>Charing Croc</li>
+<li>Puppets by Rogue-Oner, Cowcaddens</li>
+<li>The Musician by Rogue-Oner, Sauchiehall Lane</li>
+<li>SWG3</li>
+<li>Badminton by Guido van Helten, Wilson Street</li>
+<li>Girl, near Smiddy Bar, Purdon St</li>
+<li>The Marionettes by Rogue-Oner, John Street</li>
+<li>Sauchiehall Street Kittens by Rogue-Oner</li>
+<li>Mikaku, Queen St</li>
+<li>Maryhill Panther, Maryhill Road, Glasgow</li>
+<li>Giant Panda, Gordon Lane</li>
+<li>Cowlair Incline, Endrick Street, Glasgow</li>
+<li>Gorbals Vampire by Art Pistol</li>
+<li>Johnnie Walker by Art Pistol, Corunna Street</li>
+<li>Freddo by Art Pistol With Conzo Throb &amp; Ciaran Globel, Springfield Court</li>
+<li>Tartan Paint / Innis &amp; Gunn by Art Pistol With Conzo Throb &amp; Ciaran Globel, Cresswell Lane, Glasgow</li>
+<li>Nolly Brigg by Art Pistol With James Frew, Firhill Road, Glasgow</li>
+<li>Frog by Art Pistol With Ejek / 2019 / Bilsland Drive, Glasgow</li>
+<li>The Gardener Glasgow by Art Pistol With Rogue One, Ashton Lane, Glasgow</li>
+<li>Fish Market by Art Pistol</li>
+<li>Squirrelling Around, (by Smug and Spore)</li>
+</ul>
+]]></content:encoded>
     </item>
     
   </channel>

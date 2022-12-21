@@ -4,10 +4,6 @@
     <title>life on mhejda</title>
     <link>https://mhejda.com/tags/life/</link>
     <description>Recent content in life on mhejda</description>
-    <image>
-      <url>https://mhejda.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://mhejda.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.com/tags/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,6 +13,30 @@
       
       <guid>https://mhejda.com/posts/fresh-starts/</guid>
       <description>Restarting my blogging efforts on a new platform.</description>
+      <content:encoded><![CDATA[<p>I have always really liked the idea of a <em>personal blog</em> - in my mind, I always imagined it as one&rsquo;s very own tiny island in the vast seas of the endless, global Internet network.</p>
+<p>My family and some friends will surely remember many of my previous attempts at blogging. Way back in 2006 (at undoubtly a very wise age of thirteen), I used to blog on Vox.com (prior to the domain and brand being acquired by the current media company). I also owned multiple Wordpress instances, a Blogspot instance, and very likely at least few additional services which I already forgot about.</p>
+<p>My very last attempt at blogging ended right when I started my undergrad in 2013 - and for almost 10 long years, I did not blog at all. I was styling writing, but mostly just a personal journal using the DayOne iOS app. Those were the times when significant shift towards social media started to take place - however, I have never really grown too keen on actually sharing things on these network. Data ownership &amp; privacy are things that I care about, and everytime I opened Facebook, part of me kind of hated it. There was always quite high ratio of noise (ads) to signal (friends), and it all fell a bit too all over the place. Later on, the <em>&ldquo;you are not the client, you are the product&rdquo;</em> mantra would resonate through my mind, further fueled by situations such as the Cambridge Analytica scandal etc.</p>
+<h4 id="luckily-my-online-blogging-hiatus-has-finally-changed-last-year">Luckily, my online blogging hiatus has finally changed last year.</h4>
+<p>Back then, I finally (somewhat randomly) found my own perfect blogging solution:</p>
+<ul>
+<li>
+<p>static blogging platform <a href="https://gohugo.io/">Hugo</a> (free! + open-source)</p>
+</li>
+<li>
+<p>with media hosted on Cloudinary CDN (free tier available),</p>
+</li>
+<li>
+<p>the option to deploy it on Github Pages (free!)</p>
+</li>
+<li>
+<p>and distribute via Netlify CDN (free!).</p>
+</li>
+</ul>
+<p>Since the content (except for media) is hosted on Github, this blog is also likely the first solution that should be <em>permanent</em> (unless Github goes down - in such case, losing this blog would be least of our issues). Cloudinary for photo hosting might be considered the weakest spot of the system - yet, for now, I believe its convenience outweights the risks.</p>
+<p>Devon Zuegel once wrote a really cool article named <a href="https://devonzuegel.com/post/everything-is-amazing-but-nothing-is-ours">Everything is Amazing, But Nothing is Ours</a>, highlighting some of the developments in the ways we use and build our internet services: going from <em>files</em> to <em>services</em> (which are more convenient) at the cost of highly complex dependencies. I have to say that going against the trend with a static platform like Hugo feels great - it&rsquo;s so simple, and it works so well. There&rsquo;s something about having one&rsquo;s blog completely database and bloat-free, in both a local &amp; remote git repository. Moving the whole instance elsewhere (or to a self-hosted solution) is also as easy as moving files around.</p>
+<p>I feel confident that this platform will work (and last) for years ahead. My next task is to add a simple newsletter for those who will want to follow the updates posted here.</p>
+<p>Thanks for reading me! :)</p>
+]]></content:encoded>
     </item>
     
   </channel>
