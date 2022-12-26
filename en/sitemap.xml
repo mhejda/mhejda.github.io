@@ -93,8 +93,6 @@
   </url><url>
     <loc>https://mhejda.com/authors/mhejda/</loc>
   </url><url>
-    <loc>https://mhejda.com/readlist/</loc>
-  </url><url>
     <loc>https://mhejda.com/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -108,5 +106,7 @@
                 />
   </url><url>
     <loc>https://mhejda.com/authors/</loc>
+  </url><url>
+    <loc>https://mhejda.com/readlist/</loc>
   </url>
 </urlset>
