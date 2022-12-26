@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mhejda.com/now/</loc>
+    <lastmod>2022-12-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mhejda.com/about/</loc>
     <lastmod>2022-10-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -89,6 +92,8 @@
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.com/authors/mhejda/</loc>
+  </url><url>
+    <loc>https://mhejda.com/readlist/</loc>
   </url><url>
     <loc>https://mhejda.com/archives/</loc>
     <xhtml:link
