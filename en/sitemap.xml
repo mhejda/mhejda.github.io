@@ -21,6 +21,9 @@
                 href="https://mhejda.com/categories/"
                 />
   </url><url>
+    <loc>https://mhejda.com/posts/updated-platform-hugo/</loc>
+    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mhejda.com/tags/life/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -46,9 +49,6 @@
                 hreflang="en"
                 href="https://mhejda.com/"
                 />
-  </url><url>
-    <loc>https://mhejda.com/posts/fresh-starts/</loc>
-    <lastmod>2022-08-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.com/categories/posts/</loc>
     <lastmod>2022-08-30T00:00:00+00:00</lastmod>
