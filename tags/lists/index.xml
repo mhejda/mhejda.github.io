@@ -1,125 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>posts on mhejda</title>
-    <link>https://mhejda.com/categories/posts/</link>
-    <description>Recent content in posts on mhejda</description>
+    <title>lists on mhejda</title>
+    <link>https://mhejda.com/tags/lists/</link>
+    <description>Recent content in lists on mhejda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.com/categories/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fun Academic Papers: a list</title>
-      <link>https://mhejda.com/posts/fun-papers/</link>
-      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhejda.com/posts/fun-papers/</guid>
-      <description>Not every academic paper is serious: here&amp;#39;s a list of silly and punny manuscripts.</description>
-      <content:encoded><![CDATA[<p>Scientific writings and manuscripts are usually rather dry, technical and difficult to comprehend. However, not EVERY paper out there is taking itself as seriously as is the usual norm in academia.</p>
-<p>Below, I have collected a list of papers that either focus on research of less serious, funny topics, investigate a fun phenomena, and papers with playful article names and puns. The inspiration for this list came from my student society, where we hosted informal journal clubs to practice presenting. Typically, the more silly the paper presented was, the more people have shown up. :)</p>
-<p>I attempted to roughly divide all these manuscripts into two groups: a) papers that only have a silly name, and b) papers based on a fun on silly premise. Please bear in mind that this categorization is purely subjective, and not intending to downplay any of the studies.</p>
-<p>With all that said, please enjoy the list! :) I&rsquo;d be happy to add other papers worth inclusion on this list - please feel free to message me if you know (or wrote) a funny or punny paper.</p>
-<hr>
-<h2 id="silly-names">Silly names</h2>
-<ul>
-<li>
-<p><strong>&ldquo;Leaf me alone: visual constraints on the ecology of social group formation&rdquo;</strong>, Steele and Laidre, Behav Ecol Sociobiol, 2019. <a href="https://doi.org/10.1007/s00265-019-2662-3">10.1007/s00265-019-2662-3</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Will Any Crap We Put into Graphene Increase Its Electrocatalytic Effect?&rdquo;</strong>, Wang et al., ACS Nano, 2020. <a href="https://dx.doi.org/10.1021/acsnano.9b00184">10.1021/acsnano.9b00184</a></p>
-</li>
-<li>
-<p><strong>&ldquo;An In-Depth Analysis of a Piece of Shit: Distribution of <em>Schistosoma mansoni</em> and Hookworm Eggs in Human Stool&rdquo;</strong>, Krauth et al, PLoS Negl Trop Dis., 2012. <a href="https://doi.org/10.1371%2Fjournal.pntd.0001969">10.1371/journal.pntd.0001969</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Oldest ass recovered from Olduvai Gorge, Tanzania, and the origin of asses&rdquo;</strong>, Churcher, Journal of Paleontology, 1982. <a href="https://www.jstor.org/stable/1304570">JSTOR:1304570</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Social Pharmacology of Smokeable Cocaine: Not All It&rsquo;s Cracked Up to Be&rdquo;</strong>, Morgan and Zimmer, 1997. ISBN: 978-0520202429</p>
-</li>
-<li>
-<p><strong>&ldquo;New soft robots really suck: Vacuum-powered systems empower diverse capabilities&rdquo;</strong>, Robertson and Paik, Sci Robotics, 2017. <a href="https://doi.org/10.1126/scirobotics.aan6357">10.1126/scirobotics.aan6357</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Bullshit Ability as an Honest Signal of Intelligence&rdquo;</strong>, Turpin et al, Evol Psych, 2021. <a href="https://doi.org/10.1177/14747049211000317">10.1177/14747049211000317</a></p>
-</li>
-<li>
-<p><strong>&ldquo;On the reception and detection of pseudo-profound bullshit&rdquo;</strong>, Pennycook et al, Judgment and Decision Making, 2015. <a href="http://dx.doi.org/10.1017/S1930297500006999">10.1017/S1930297500006999</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Frodo: Take off the ring! Practical, Quantum-Secure Key Exchange from LWE&rdquo;</strong>, Bos et al, ACM CCS, 2016. <a href="https://doi.org/10.1145/2976749.2978425">10.1145/2976749.297842</a></p>
-</li>
-<li>
-<p><strong>&ldquo;The mouth, the anus, and the blastopore—open questions about questionable openings&rdquo;</strong>, Hejnol and Martindale, Animal Evolution, 2009. <a href="https://doi.org/10.1093/acprof:oso/9780199549429.003.0004">10.1093/acprof:oso/9780199549429.003.0004</a></p>
-</li>
-<li>
-<p><strong>&ldquo;From urethra with shove: Bladder foreign bodies. A case report and review&rdquo;</strong>, Nazir et al, J Am Geriatr Soc, 2006. <a href="https://doi.org/10.1111/j.1532-5415.2006.00876.x">10.1111/j.1532-5415.2006.00876.x</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens&rdquo;</strong>, Caballero van Dyke et al, Curr Opin Microbiol, 2019. <a href="https://doi.org/10.1016/j.mib.2019.05.002">10.1016/j.mib.2019.05.002</a></p>
-</li>
-</ul>
-<h2 id="fun-and-silly-papers">Fun and silly papers</h2>
-<ul>
-<li>
-<p><strong>&ldquo;An analysis of the forces required to drag sheep over various surfaces&rdquo;</strong>, Harvey et al, Appl Ergon., 2002. <a href="https://doi.org/10.1016/s0003-6870(02)00071-6">10.1016/s0003-6870(02)00071-6</a></p>
-</li>
-<li>
-<p><strong>&ldquo;The Unbearable Whiteness of Skiing&rdquo;</strong>, Coleman, Pacific Hist Review, 1996. <a href="https://doi.org/10.2307/3640297">10.2307/3640297</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Lasagna plots: A saucy alternative to spaghetti plots&rdquo;</strong>, Swihart et al, Epidemiology, 2010. <a href="https://doi.org/10.1097%2FEDE.0b013e3181e5b06a">10.1097/EDE.0b013e3181e5b06a</a></p>
-</li>
-<li>
-<p><strong>&ldquo;What does it mean when people call a place a shithole? Understanding a discourse of denigration in the United Kingdom and the Republic of Ireland&rdquo;</strong>, Butler et al, Tran Inst Brit Geo, 2018. <a href="https://doi.org/10.1111/tran.12247">10.1111/tran.12247</a></p>
-</li>
-<li>
-<p><strong>&ldquo;The effect of having Christmas dinner with in-laws on gut microbiota composition&rdquo;</strong>, de Clercq et al, Human Microb, 2019. <a href="https://doi.org/10.1016/j.humic.2019.100058">10.1016/j.humic.2019.100058</a></p>
-</li>
-<li>
-<p><strong>&ldquo;An‐<em>arrgh</em>‐chy: The Law and Economics of Pirate Organization&rdquo;</strong>, Leeson, Journal of Political Economy, 2007. <a href="https://doi.org/10.1086/526403">10.1086/526403</a></p>
-</li>
-<li>
-<p><strong>&ldquo;A mathematical model of Bieber Fever: The most infectious disease of our time?&rdquo;</strong>, Tweedle and Smith, Understanding the Dynamics of Emerging and Re-Emerging Infectious Diseases Using Mathematical Models, 2012. <a href="http://mysite.science.uottawa.ca/rsmith43/BieberFever.pdf">link</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Would Bohr be born if Bohm were born before Born?&rdquo;</strong>, Nikolic, American Journal of Physics, 2008. <a href="https://doi.org/10.1119/1.2805241">10.1119/1.2805241</a></p>
-</li>
-<li>
-<p><strong>&ldquo;The Kissing Problem: How to End a Gathering When Everyone Kisses Everyone Else Goodbye&rdquo;</strong>, Bender et al, International Conference on Fun with Algorithms, 2012. <a href="https://doi.org/10.1007/978-3-642-30347-0_6">10.1007/978-3-642-30347-0_6</a></p>
-</li>
-<li>
-<p><strong>&ldquo;The relational model is dead, SQL is dead, and I don&rsquo;t feel so good myself&rdquo;</strong>, Atzeni et al, International Workshop on Non-Conventional Data Access, 2012. <a href="https://doi.org/10.1145/2503792.2503808">10.1145/2503792.2503808</a></p>
-</li>
-<li>
-<p><strong>&ldquo;A Few Goodmen: Surname-Sharing Economic Co-authors&rdquo;</strong>, Goodman et al, Econ Inquiry, 2015. <a href="https://doi.org/10.1111/ecin.12167">10.1111/ecin.12167</a></p>
-</li>
-<li>
-<p><strong>&ldquo;The Physics of baking good Pizza&rdquo;</strong>, Varlamov et al, IOP Phys Ed, 2018. <a href="https://dx.doi.org/10.1088/1361-6552/aadc2e">10.1088/1361-6552/aadc2e</a></p>
-</li>
-<li>
-<p><strong>&ldquo;Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment&rdquo;</strong>, Cameron et al, J Matt, 2019. <a href="https://doi.org/10.1016/j.matt.2019.12.019">10.1016/j.matt.2019.12.019</a></p>
-</li>
-</ul>
-<h2 id="special-mentions">Special mentions:</h2>
-<ul>
-<li>
-<p><strong>&ldquo;Can apparent superluminal neutrino speeds be explained as a quantum weak measurement?&rdquo;</strong>, Berry et al, IOP JPA, 2011. <a href="https://dx.doi.org/10.1088/1751-8113/44/49/492001">10.1088/1751-8113/44/49/492001</a></p>
-<ul>
-<li>See the abstract.</li>
-</ul>
-</li>
-<li>
-<p><strong>&ldquo;Quantum Tokens for Digital Signatures&rdquo;</strong>, Ben-David and Sattath, 2023. <a href="https://arxiv.org/abs/1609.09047v8">arXiv:1609.09047v8</a></p>
-<ul>
-<li>See the abstract.</li>
-</ul>
-</li>
-<li>
-<p><strong>&ldquo;Linking plasma formation in grapes to microwave resonances of aqueous dimers&rdquo;</strong>, Khattak et al, PNAS APS, 2019. <a href="https://doi.org/10.1073/pnas.1818350116">10.1073/pnas.1818350116</a></p>
-</li>
-</ul>
-]]></content:encoded>
-    </item>
-    
+    <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.com/tags/lists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Yearly Reflections: 2022</title>
       <link>https://mhejda.com/posts/2022-yearly-review/</link>
@@ -268,43 +154,6 @@
 <p><strong>Get back into music production.</strong> Start working on a new EP, to follow up on 2017&rsquo;s northbound.</p>
 </li>
 </ul>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Fresh new blog</title>
-      <link>https://mhejda.com/posts/updated-platform-hugo/</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhejda.com/posts/updated-platform-hugo/</guid>
-      <description>Restarting my blogging efforts using Hugo.</description>
-      <content:encoded><![CDATA[<p>I have always really liked the idea of a <em>personal blog</em> - in my imagination, I see it as one&rsquo;s very own private tiny island in the vast seas of the endless, global Internet network. Since blogs are usually aimed at sharing personal thoughts and experiences, they remain one of the last non-profit frontiers of the internet, and provide number of benefits both for the author and the network (see <a href="https://twitter.com/jackrhysider/status/1524416387434762241">Jack Rhysider&rsquo;s Tweet thread</a> for some of these).</p>
-<blockquote>
-<p>By blogging you will become a better writer and communicator, learn the concepts better, open new opportunities, have a fantastic notebook for self reference, maybe make money, become appreciated by more people, and show off your IT skills. <a href="https://twitter.com/jackrhysider/status/1524416387434762241">@JackRhysider</a></p>
-</blockquote>
-<p>My family and some friends will surely remember many of my previous attempts at blogging. Way back in 2006 (at a very wise age of <em>thirteen</em>), I used to casually blog on Vox.com (prior to the domain being acquired by the current media company). I also owned multiple Wordpress instances, a Blogspot instance, and very likely at least few additional services which I already forgot about.</p>
-<p>My very last attempt at blogging ended right when I started my undergrad in 2013 - and for almost 10 long years, I did not blog at all. Instead, I shifted towards keeping a personal journal using the DayOne iOS app.</p>
-<p>Meanwhile, a significant shift towards social media started to take place - a shift I have never really grown keen on. Data ownership &amp; privacy are things that I care about, and everytime I opened Facebook, it felt more addictive than rewarding. The experience always felt a bit too all over the place, with the noise (ads) to signal (friends) ratio being way too high. Later on, the principle of <em>&ldquo;you are not a customer, you are the product&rdquo;</em>  would only become more apparent, fueled by situations such as the Cambridge Analytica scandal.</p>
-<h4 id="luckily-my-online-blogging-hiatus-has-finally-changed-last-year">Luckily, my online blogging hiatus has finally changed last year.</h4>
-<p>Back then, I finally found my own perfect blogging solution:</p>
-<ul>
-<li>
-<p>static blogging platform <a href="https://gohugo.io/">Hugo</a> (free! + open-source)</p>
-</li>
-<li>
-<p>with media hosted on Cloudinary CDN (free tier available),</p>
-</li>
-<li>
-<p>the option to deploy it on Github Pages (free!)</p>
-</li>
-<li>
-<p>and distribute via Netlify CDN (free!).</p>
-</li>
-</ul>
-<p>Since the content (except for media) is hosted on Github, this blog is also likely the first solution that should be <em>permanent</em> (unless Github goes down - in such case, losing this blog would be least of our issues). Cloudinary for photo hosting might be considered the weakest spot of the system - yet, for now, I believe its convenience outweights the risks.</p>
-<p>Devon Zuegel once wrote a really cool article named <a href="https://devonzuegel.com/post/everything-is-amazing-but-nothing-is-ours">Everything is Amazing, But Nothing is Ours</a>, highlighting some of the developments in the ways we use and build our internet services: going from <em>files</em> to <em>services</em> (which are more convenient) at the cost of highly complex dependencies. I have to say that going against the trend with a static platform like Hugo feels great - it&rsquo;s so simple, and it works so well. There&rsquo;s something about having one&rsquo;s blog completely database and bloat-free, in both a local &amp; remote git repository. Moving the whole instance elsewhere (or to a self-hosted solution) is also as easy as moving files around.</p>
-<p>I feel confident that this platform will work (and last) for years ahead. My next task is to add a simple newsletter for those who will want to follow the updates posted here.</p>
-<p>Thanks for reading me! :)</p>
 ]]></content:encoded>
     </item>
     
