@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mhejda.com/publications/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mhejda.com/now/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mhejda.com/categories/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -21,11 +15,8 @@
                 href="https://mhejda.com/categories/"
                 />
   </url><url>
-    <loc>https://mhejda.com/posts/undertaking-a-phd/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mhejda.com/tags/life/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -37,8 +28,11 @@
                 href="https://mhejda.com/tags/life/"
                 />
   </url><url>
+    <loc>https://mhejda.com/tags/lists/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mhejda.com/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -50,14 +44,11 @@
                 href="https://mhejda.com/"
                 />
   </url><url>
-    <loc>https://mhejda.com/tags/opinions/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mhejda.com/categories/posts/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.com/posts/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -69,8 +60,11 @@
                 href="https://mhejda.com/posts/"
                 />
   </url><url>
+    <loc>https://mhejda.com/tags/review/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mhejda.com/tags/</loc>
-    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -82,14 +76,23 @@
                 href="https://mhejda.com/tags/"
                 />
   </url><url>
+    <loc>https://mhejda.com/posts/2023-yearly-review/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.com/publications/</loc>
+    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.com/now/</loc>
+    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.com/posts/undertaking-a-phd/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.com/tags/opinions/</loc>
+    <lastmod>2023-03-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mhejda.com/posts/fun-papers/</loc>
     <lastmod>2023-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mhejda.com/tags/lists/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mhejda.com/tags/review/</loc>
-    <lastmod>2022-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.com/posts/2022-yearly-review/</loc>
     <lastmod>2022-12-30T00:00:00+00:00</lastmod>
