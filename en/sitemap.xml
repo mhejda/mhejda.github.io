@@ -2,11 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mhejda.com/subscribe/</loc>
-    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mhejda.com/categories/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -18,11 +15,8 @@
                 href="https://mhejda.com/categories/"
                 />
   </url><url>
-    <loc>https://mhejda.com/posts/brussels-restaurant-list/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mhejda.com/tags/life/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -35,7 +29,7 @@
                 />
   </url><url>
     <loc>https://mhejda.com/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -47,14 +41,11 @@
                 href="https://mhejda.com/"
                 />
   </url><url>
-    <loc>https://mhejda.com/tags/opinions/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mhejda.com/categories/posts/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.com/posts/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -66,8 +57,11 @@
                 href="https://mhejda.com/posts/"
                 />
   </url><url>
+    <loc>https://mhejda.com/subscribe/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mhejda.com/tags/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -78,6 +72,18 @@
                 hreflang="en"
                 href="https://mhejda.com/tags/"
                 />
+  </url><url>
+    <loc>https://mhejda.com/tags/tidbits/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.com/posts/2024-04-tidbits/</loc>
+    <lastmod>2024-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.com/posts/brussels-restaurant-list/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mhejda.com/tags/opinions/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.com/tags/lists/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
