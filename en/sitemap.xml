@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mhejda.com/publications/</loc>
+    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mhejda.com/categories/</loc>
     <lastmod>2024-10-19T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -102,9 +105,6 @@
   </url><url>
     <loc>https://mhejda.com/posts/2023-yearly-review/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mhejda.com/publications/</loc>
-    <lastmod>2023-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mhejda.com/now/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
