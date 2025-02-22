@@ -1,90 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on mhejda</title>
+    <title>Tags on mhejda.com</title>
     <link>https://mhejda.com/tags/</link>
-    <description>Recent content in Tags on mhejda</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mhejda.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Tags on mhejda.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mhejda.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>life</title>
+      <title>Life</title>
       <link>https://mhejda.com/tags/life/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mhejda.com/tags/life/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
-      <title>tidbits</title>
+      <title>Tidbits</title>
       <link>https://mhejda.com/tags/tidbits/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mhejda.com/tags/tidbits/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
-      <title>travel</title>
+      <title>Travel</title>
       <link>https://mhejda.com/tags/travel/</link>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mhejda.com/tags/travel/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
-      <title>opinions</title>
-      <link>https://mhejda.com/tags/opinions/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhejda.com/tags/opinions/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>lists</title>
+      <title>Lists</title>
       <link>https://mhejda.com/tags/lists/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mhejda.com/tags/lists/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
-      <title>review</title>
+      <title>Review</title>
       <link>https://mhejda.com/tags/review/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mhejda.com/tags/review/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
     <item>
-      <title>computers</title>
-      <link>https://mhejda.com/tags/computers/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mhejda.com/tags/computers/</guid>
+      <title>Opinions</title>
+      <link>https://mhejda.com/tags/opinions/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/tags/opinions/</guid>
       <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
     </item>
-    
-    <item>
-      <title>munros</title>
-      <link>https://mhejda.com/tags/munros/</link>
-      <pubDate>Sun, 02 Feb 2020 21:00:00 +0000</pubDate>
-      
-      <guid>https://mhejda.com/tags/munros/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
   </channel>
 </rss>
