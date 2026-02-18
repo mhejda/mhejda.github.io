@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mhejda.com</title>
+    <link>https://mhejda.com/</link>
+    <description>Recent content on mhejda.com</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mhejda.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List of publications</title>
+      <link>https://mhejda.com/publications/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/publications/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Updated: Dec 3rd 2025&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;first-authored-manuscripts&#34;&gt;First-authored manuscripts&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📝 &lt;strong&gt;SEPhIA: &amp;lt;1 laser/neuron Spiking Electro-Photonic Integrated Multi-Tiled Architecture for Scalable Optical Neuromorphic Computing&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;M. Hejda, A. Natarajan, C. Hong, M. B. On, S. d&amp;rsquo;Herbais de Thun, R. G. Beausoleil and T. Van Vaerenbergh&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;&lt;strong&gt;(pre-print)&lt;/strong&gt;&lt;/em&gt;, 2025-10-08, &lt;a href=&#34;https://arxiv.org/abs/2510.07427&#34;&gt;arXiv:2510.07427&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;📝 &lt;strong&gt;Programmable optical synaptic linking of neuromorphic photonic-electronic RTD spiking circuits&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;M. Hejda, W. Zhang, Q. R. A. Al-Taai, E. Malysheva, D. Owen-Newns, J. M. L. Figueiredo, B. Romeira, J. Robertson, V. Dolores-Calzadilla, E. Wasige and A. Hurtado&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;&lt;strong&gt;ACS Photonics&lt;/strong&gt;&lt;/em&gt;, 2024-09-18, &lt;a href=&#34;https://dx.doi.org/10.1021/acsphotonics.4c01199&#34;&gt;10.1021/acsphotonics.4c01199&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://mhejda.com/about/</link>
+      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/about/</guid>
+      <description>&lt;h2 id=&#34;im-matěj-hejda&#34;&gt;I&amp;rsquo;m Matěj Hejda.&lt;/h2&gt;&#xA;&lt;p&gt;-&amp;gt; &lt;em&gt;pronounced as mah-TAY hey-da / [ˈmacɛj ˈɦɛjda]&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I am a scientist with cross-disciplinary expertise combining aspects of (nano)photonics, machine learning and neuromorphic engineering. I&amp;rsquo;m originally from Czech Republic and currently live in Brussels, Belgium 🇧🇪. I have a Ph.D. in Physics from &lt;em&gt;University of Strathclyde&lt;/em&gt; (🇬🇧 UK), and a Master&amp;rsquo;s degree (cum laude) in Nanotechnology from &lt;em&gt;Technical University of Liberec&lt;/em&gt; (🇨🇿 CZ) with my MSc. thesis undertaken at ICFO (Spain 🇪🇸).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tidbits of life | 03 | late summer, cars &amp; scientific writing.</title>
+      <link>https://mhejda.com/posts/2024-10-tidbits/</link>
+      <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/posts/2024-10-tidbits/</guid>
+      <description>&lt;h3 id=&#34;bits-of-work&#34;&gt;bits of work.&lt;/h3&gt;&#xA;&lt;p&gt;This September has felt like the busiest month of the year so far. While the beginning of the September marks a return-to-school time for most, for people working at HPE, it marks a start of an abstract writing sprint for HPE&amp;rsquo;s annual innovation conference: the &lt;em&gt;Tech Con&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tidbits of life | 02 | summertime.</title>
+      <link>https://mhejda.com/posts/2024-08-tidbits/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/posts/2024-08-tidbits/</guid>
+      <description>&lt;p&gt;Few weeks ago, I have placed a new little widget on my iOS screen called &lt;a href=&#34;https://prettyprogress.app&#34;&gt;Pretty Progress&lt;/a&gt;, tracking the percentage of time passing through the year. As of writing this paragraph, we are currently at 63% into 2024. Time really flies, and this little widget is a small, at-a-glance reminder of that. It&amp;rsquo;s also almost four months since the last post here. Let&amp;rsquo;s get that fixed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tidbits of life | 01 | asymmetries &amp; AI stuff.</title>
+      <link>https://mhejda.com/posts/2024-04-tidbits/</link>
+      <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/posts/2024-04-tidbits/</guid>
+      <description>&lt;p&gt;As April is reaching its ending, the weather in Brussels is finally turning more and more enjoyable. The unpredicatble madness of April weather conditions (we refer to it as the month of &amp;ldquo;April fool&amp;rsquo;s weather&amp;rdquo; in Czech) is drawing to its end. The alleyways all across the city are colouring themselves in lush hues of green (and pink, in case of the cherry trees).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yearly Reflections: 2023</title>
+      <link>https://mhejda.com/posts/2023-yearly-review/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/posts/2023-yearly-review/</guid>
+      <description>&lt;p&gt;📅 &lt;em&gt;Previous write-ups:&lt;/em&gt; &lt;a href=&#34;https://mhejda.com/posts/2022-yearly-review/&#34;&gt;2022&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;📍 &lt;em&gt;like in previous year, I am writing this in my family&amp;rsquo;s cozy living room in Starý Plzenec, Czech Republic&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Considering a PhD? A guide based on my personal experience.</title>
+      <link>https://mhejda.com/posts/undertaking-a-phd/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/posts/undertaking-a-phd/</guid>
+      <description>&lt;p&gt;Prior to starting my PhD back in the early months of 2019, I remember spending long evenings on Google, Quora and Reddit, looking for people who shared their opinions and perspectives on the big life decision I was facing in the time: &lt;em&gt;&amp;ldquo;Should I go to grad school and start a PhD programme?&amp;rdquo;&lt;/em&gt;. At that time, I was just about to finish my Masters degree in Nanotechnology back in Czechia, and have also just returned from nearly a year-long stint at ICFO (Institut de Ciències Fotòniques) in Catalunya, Spain, where I did my Masters project and wrote my MSc. thesis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fun Academic Papers: a list</title>
+      <link>https://mhejda.com/posts/fun-papers/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/posts/fun-papers/</guid>
+      <description>&lt;p&gt;Scientific writings and manuscripts are usually rather dry, technical and difficult to comprehend. However, not EVERY paper out there is taking itself as seriously as is the usual norm in academia.&lt;/p&gt;&#xA;&lt;p&gt;Below, I have collected a list of papers that either focus on research of less serious, funny topics, investigate a fun phenomena, and papers with playful article names and puns. The inspiration for this list came from my student society, where we hosted informal journal clubs to practice presenting. Typically, the more silly the paper presented was, the more people have shown up. :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Yearly Reflections: 2022</title>
+      <link>https://mhejda.com/posts/2022-yearly-review/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/posts/2022-yearly-review/</guid>
+      <description>&lt;p&gt;📍 &lt;em&gt;writing in the living room of my family&amp;rsquo;s house in Starý Plzenec, Czech Republic&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;I have a little confession to make: &lt;em&gt;I have always wanted to write an article like this&lt;/em&gt;. To have a look back over the last twelve months of one&amp;rsquo;s life, reminiscing, pondering, looking forward to (hopefully better) tomorrows, and then share it in &lt;em&gt;public&lt;/em&gt;. I did compile such reflective write-ups into my own private diary in the past - but I believe writing and sharing this publicly brings some advantages:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>readlist.</title>
+      <link>https://mhejda.com/readlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mhejda.com/readlist/</guid>
+      <description>&lt;h3 id=&#34;list-of-interesting-articles&#34;&gt;List of interesting articles&lt;/h3&gt;&#xA;&lt;p&gt;Occasionally, I stumble upon an online article or a podcast which I find interesting, worth reading, listening to or thinking about. Below, I will try to keep an up-to-date list of such articles. 📅 &lt;em&gt;Updated Feb 15th 2026.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h5 id=&#34;articles&#34;&gt;Articles&lt;/h5&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025/12&lt;/strong&gt;: &lt;a href=&#34;https://zhengdongwang.com/2025/12/30/2025-letter.html&#34;&gt;&amp;lsquo;2025 Letter&amp;rsquo;&lt;/a&gt; (on AI and life) &lt;em&gt;by Zhengdong Wang&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025/11&lt;/strong&gt;: &lt;a href=&#34;https://www.avitalbalwit.com/post/the-advice-i-would-give-on-a-mentorship-call&#34;&gt;&amp;lsquo;The advice I would give on a mentorship call&amp;rsquo;&lt;/a&gt; &lt;em&gt;by Avital Balwit&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025/08&lt;/strong&gt;: &lt;a href=&#34;https://usefulfictions.substack.com/p/in-praise-of-quitting&#34;&gt;&amp;lsquo;In praise of quitting&amp;rsquo;&lt;/a&gt; &lt;em&gt;by Cate Hall&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
